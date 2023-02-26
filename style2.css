@@ -1,0 +1,47 @@
+* {
+    background-color: lime;
+    border: #fd4a47;
+    border-radius: 10cm;
+}
+.logo {
+    font-size: x-large;
+    color: orangered;
+    font-weight: 800;
+    font: bold;
+    position: absolute;
+    right: 570px;
+    bottom: 570px;
+}
+.pro {
+    font-size: x-large;
+    color: orangered;
+    font-weight: 800;
+    font: bold;
+    position: absolute;
+    right: 600px;
+    bottom: 530px;
+}
+.link {
+    color: #fff;
+    position: absolute;
+    font-size: xxx-large;
+    font: italic;
+    left: 60px;
+    bottom: 300px;
+}
+.rar {
+    color: #fff;
+    position: absolute;
+    font-size: xxx-large;
+    font: italic;
+    left: 1000px;
+    bottom: 300px;
+}
+.python {
+    color: #fff;
+    position: absolute;
+    font-size: xxx-large;
+    font: italic;
+    left: 500px;
+    bottom: 300px;
+}

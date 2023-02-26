@@ -1,0 +1,46 @@
+* {
+    background-color: blue;
+    border: #fd4a47;
+    border-radius: 10cm;
+}
+.logo {
+    color: #fff;
+    position: absolute;
+    font-size: xx-large;
+    font: italic;
+    right: 610px;
+    bottom: 180px;
+}
+.Sub {
+    color: #fff;
+    position: absolute;
+    font-size: xx-large;
+    font: italic;
+    right: 650px;
+    bottom: 140px;
+}
+.main {
+    background: url(logo.jpg);
+    background-size: cover;
+    width: 250px;
+	height: 250px;
+    position: absolute;
+    bottom: 230px;
+    right: 650px;
+}
+.link {
+    color: #fff;
+    position: absolute;
+    font-size: xxx-large;
+    font: italic;
+    left: 60px;
+    bottom: 300px;
+}
+.folder {
+    color: #fff;
+    position: absolute;
+    font-size: xxx-large;
+    font: italic;
+    right: 200px;
+    bottom: 300px;
+}
